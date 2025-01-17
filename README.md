@@ -27,7 +27,7 @@ cmake ..
 make -j
 # At this point, you should be able to run test scripts below.
 ```
-build
+## 2. build
 ```
 # To install the C++ package your system, run:
 sudo make install
